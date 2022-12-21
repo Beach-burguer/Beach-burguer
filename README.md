@@ -1,6 +1,6 @@
 # Beach-burguer
 
-Primeiro baixe as dependencias
+Primeiro baixe as dependências
 
 npm install
 
